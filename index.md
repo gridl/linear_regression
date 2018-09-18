@@ -10,7 +10,7 @@ title: TFLR
 
 # Notebooks 
 
-The easiest way doing the notebooks, is to use google [colab](https://colab.research.google.com/) (you will need to have a google account for that). The notebook will be run in the cloud. For doing the hands-on part on your own computer you can either install anaconda or use the provided a docker container. See [https://tensorchiefs.github.io/dl_course_2018/](https://tensorchiefs.github.io/dl_course_2018/) for details.
+The easiest way doing the notebooks, is to use google [colab](https://colab.research.google.com/) (you will need to have a google account for that). The notebook will be run in the cloud. For doing the hands-on part on your own computer (you need no google account) you can either install anaconda or use the provided a docker container. See [https://tensorchiefs.github.io/dl_course_2018/](https://tensorchiefs.github.io/dl_course_2018/) for details.
 
 
  
