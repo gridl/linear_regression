@@ -15,10 +15,10 @@ The easiest way doing the notebooks, is to use google [colab](https://colab.rese
 # Tasks
 **will come soon**
 
-## Ninja Track
+* Ninja Track
 Very few hints.
 
-## Yellow Belt 
+* Yellow Belt 
 More hints
 
 # Solution
