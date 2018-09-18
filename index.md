@@ -8,22 +8,22 @@ title: TFLR
 
 # Talk
 
-* talk for inside data **will come soon**
+* Talk for [Inside Data](https://cyberlago.net/event/inside-data-bodensee-vol-i-lineare-regression-mit-tensorflow/) **will come soon**
 
 # Notebooks 
 
-The easiest way doing the notebooks, is to use google [colab](https://colab.research.google.com/) (you will need to have a google account for that). The notebook will be run in the cloud. For doing the hands-on part on your own computer (you need no google account) you can either install anaconda or use the provided a docker container. See [https://tensorchiefs.github.io/dl_course_2018/](https://tensorchiefs.github.io/dl_course_2018/) for details.
+The easiest to interactively work with the notebooks, is to use google [colab](https://colab.research.google.com/) (you will need to have a google account for that). In colab the notebook will be run in the cloud. For doing the hands-on part on your own computer you can either install anaconda or use the provided a docker container (you need no google account). See [https://tensorchiefs.github.io/dl_course_2018/](https://tensorchiefs.github.io/dl_course_2018/) for details.
 
-# Tasks
+# Tasks / Exercises
 **will come soon**
 
-* Ninja Track
+* Ninja track
 Very few hints.
 
-* Yellow Belt 
+* Yellow belt 
 More hints
 
-# Solution
+# Solutions
 **Please try it first on your own**
 
 * Linear Regression with TensorFlow (standard graph based): [notebook static](https://github.com/tensorchiefs/linear_regression/blob/master/linear_regression_tf.ipynb) or [notebook interactive in colab](https://colab.research.google.com/github/tensorchiefs/linear_regression/blob/master/linear_regression_tf.ipynb)
