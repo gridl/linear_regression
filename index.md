@@ -21,10 +21,10 @@ The easiest to interactively work with the notebooks, is to use google [colab](h
 **will come soon**
 
 * Ninja track
-Very few hints.
+very few hints.
 
 * Yellow belt 
-More hints
+more hints
 
 # Solutions
 **Please try it first on your own**
