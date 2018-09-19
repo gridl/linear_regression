@@ -31,6 +31,6 @@ more hints
 
 * Linear Regression with TensorFlow (standard graph based): [notebook static](https://github.com/tensorchiefs/linear_regression/blob/master/linear_regression_tf.ipynb) or [notebook interactive in colab](https://colab.research.google.com/github/tensorchiefs/linear_regression/blob/master/linear_regression_tf.ipynb)
 
-* Linear Regression with TensorFlow eager COMMING SOON: [notebook static](https://github.com/tensorchiefs/linear_regression/blob/master/linear_regression_tfeager.ipynb) or [notebook interactive in colab](https://colab.research.google.com/github/tensorchiefs/linear_regression/blob/master/linear_regression_tfeager.ipynb)
+* Linear Regression with TensorFlow eager: [notebook static](https://github.com/tensorchiefs/linear_regression/blob/master/linear_regression_tfeager.ipynb) or [notebook interactive in colab](https://colab.research.google.com/github/tensorchiefs/linear_regression/blob/master/linear_regression_tfeager.ipynb)
 
 Further material on deep learning, can be found at [tensorchiefs](https://github.com/tensorchiefs/) $F^{\mu,\nu}$
