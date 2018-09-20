@@ -11,7 +11,7 @@ title: TFLR
 
 # Talk
 
-* Talk for [Inside Data](https://cyberlago.net/event/inside-data-bodensee-vol-i-lineare-regression-mit-tensorflow/) **will come soon**
+* [Talk](https://www.dropbox.com/s/2qjgb18acp6jlwi/talk.pdf?dl=1) given on 9/20/2018 at [Inside Data Konstanz](https://cyberlago.net/event/inside-data-bodensee-vol-i-lineare-regression-mit-tensorflow/) 
 
 # Notebooks 
 
