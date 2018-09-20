@@ -18,13 +18,14 @@ title: TFLR
 The easiest to interactively work with the notebooks, is to use google [colab](https://colab.research.google.com/) (you will need to have a google account for that). In colab the notebook will be run in the cloud. For doing the hands-on part on your own computer you can either install anaconda or use the provided a docker container (you need no google account). See [https://tensorchiefs.github.io/dl_course_2018/](https://tensorchiefs.github.io/dl_course_2018/) for details.
 
 # Tasks / Exercises
-**will come soon**
 
 * Ninja track
 very few hints.
 
-* Yellow belt 
-more hints
+* Yellow belt linear_regression_tf: [notebook static](https://github.com/tensorchiefs/linear_regression/blob/master/linear_regression_tf_yellow_belt.ipynb) or [notebook interactive in colab](https://colab.research.google.com/github/tensorchiefs/linear_regression/blob/master/linear_regression_tf_yellow_belt.ipynb)
+ 
+ 
+If there is time left, you may want to have a look at the solution for linear regression with TensorFlow eager (see below)
 
 # Solutions
 **Please try it first on your own**
