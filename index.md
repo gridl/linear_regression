@@ -7,8 +7,6 @@ title: TFLR
         src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
       </script>
 
-** Under construction!**
-
 # Talk
 
 * [Talk](https://www.dropbox.com/s/2qjgb18acp6jlwi/talk.pdf?dl=1) given on 9/20/2018 at [Inside Data Konstanz](https://cyberlago.net/event/inside-data-bodensee-vol-i-lineare-regression-mit-tensorflow/) 
@@ -19,10 +17,9 @@ The easiest to interactively work with the notebooks, is to use google [colab](h
 
 # Tasks / Exercises
 
-* Ninja track
-very few hints.
+* Ninja track (very few hints) linear_regression_tf: [notebook static](https://github.com/tensorchiefs/linear_regression/blob/master/linear_regression_tf_ninja.ipynb) or [notebook interactive in colab](https://colab.research.google.com/github/tensorchiefs/linear_regression/blob/master/linear_regression_tf_ninja.ipynb)
 
-* Yellow belt linear_regression_tf: [notebook static](https://github.com/tensorchiefs/linear_regression/blob/master/linear_regression_tf_yellow_belt.ipynb) or [notebook interactive in colab](https://colab.research.google.com/github/tensorchiefs/linear_regression/blob/master/linear_regression_tf_yellow_belt.ipynb)
+* Yellow belt (some hints) linear_regression_tf: [notebook static](https://github.com/tensorchiefs/linear_regression/blob/master/linear_regression_tf_yellow_belt.ipynb) or [notebook interactive in colab](https://colab.research.google.com/github/tensorchiefs/linear_regression/blob/master/linear_regression_tf_yellow_belt.ipynb)
  
  
 If there is time left, you may want to have a look at the solution for linear regression with TensorFlow eager (see below)
